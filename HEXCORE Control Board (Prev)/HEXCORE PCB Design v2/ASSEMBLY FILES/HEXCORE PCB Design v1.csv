@@ -1,0 +1,35 @@
+Comment,Designator,Footprint,LCSC Part #
+"100n Unpolarized capacitor, small symbol","C1,C2,C3,C4,C5,C11,C12",C_0402_1005Metric,
+"10u Unpolarized capacitor, small symbol",C6,C_0603_1608Metric,
+"10n Unpolarized capacitor, small symbol",C7,C_0402_1005Metric,
+"1u Unpolarized capacitor, small symbol","C8,C9",C_0402_1005Metric,
+"100n Unpolarized capacitor, small symbol","C10,C18,C20",C_0201_0603Metric,
+"10p Unpolarized capacitor, small symbol","C13,C14",C_0201_0603Metric,
+"22u Unpolarized capacitor, small symbol","C15,C16",C_0603_1608Metric,
+"10n Unpolarized capacitor, small symbol",C17,C_0201_0603Metric,
+"2n2 Unpolarized capacitor, small symbol",C19,C_0201_0603Metric,
+"1000uF Unpolarized capacitor, small symbol","C21,C22",C_Elec_10x10.2,C310843
+"0.1uF Unpolarized capacitor, small symbol",C23,C_0201_0603Metric,
+RED Light emitting diode,D1,LED_0603_1608Metric,C2286
+WS2812B RGB LED with integrated controller,D3,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,C2843785
+"TLC-LSMD300 Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_2920_7451Metric,C262042
+"TLC_LSMD050 Fuse, small symbol",F2,Fuse_2920_7451Metric,C262037
+"120R Ferrite bead, small symbol",FB1,L_0603_1608Metric,
+LTC2945CMS#PBF Current & Power Monitors & Regulators Wide Range I2C Power Monitor (SDAO),IC1,SOP65P490X110-12N,C580648
+USB_B_Micro USB Micro Type B connector,J45,MICROXNJ,C404969
+"Conn_ARM_JTAG_SWD_10 Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface",J55,PinHeader_2x05_P1.27mm_Vertical,
+"Conn_01x02 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J56,AMASS_XT60-M_1x02_P7.20mm_Vertical,C98733
+"220 Resistor, small symbol","R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R51,R52,R53,R54,R57,R58,R59",R_0201_0603Metric,
+"10K Resistor, small symbol",R45,R_0201_0603Metric,
+"2k2 Resistor, small symbol","R46,R47,R48,R49,R50,R62,R63",R_0402_1005Metric,
+"5k Resistor, small symbol",R55,R_0402_1005Metric,
+"0.02 Resistor, small symbol",R56,R_2512_6332Metric,
+"SW_SPDT Switch, single pole double throw",SW2,SW_Slide_1P2T_CK_OS102011MS2Q,C2800116
+SW_SPST Single Pole Single Throw (SPST) switch,SW3,SW_SPST_B3S-1000,C180420
+"STM32F405RGT6 STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64",U1,LQFP-64_10x10mm_P0.5mm,C15742
+PCA9685BS 16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA QFN,"U2,U3",QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm,C5191634
+"USBLC6-2SC6 Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",U5,SOT-23-6,C2827654
+DHT11 Temperature and humidity module,U6,Aosong_DHT11_5.5x12.0_P2.54mm,C117051
+"MPU-6050 InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C",U7,InvenSense_QFN-24_4x4mm_P0.5mm,C24112
+"AMS1117-3.3 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",U8,SOT-223-3_TabPin2,C347222
+"16Mhz Four pin crystal, GND on pins 2 and 4",Y1,Crystal_SMD_2520-4Pin_2.5x2.0mm,C255947
